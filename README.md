@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [crisis helper](https://github.com/hbaagil/Multimodal_Crisis_Project.git)
 
-- 🌱 I’m currently learning **deep learning**
+- 🌱 I’m currently deepening my knowledge on **machine and deep learning**
 
 - 💬 Ask me about **statistics and data analysis**
 
