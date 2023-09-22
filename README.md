@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derya</h1>
-<h3 align="center">An curious data scientist from Germany</h3>
+<h3 align="center">A curious data scientist from Germany</h3>
 
 - 🔭 I’m currently working on [crisis helper](https://github.com/hbaagil/Multimodal_Crisis_Project.git)
 
